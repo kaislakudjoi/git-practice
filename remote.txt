@@ -1,0 +1,3 @@
+MacBook-Air-Kaisla:git-practice kaislakudjoi$ git remote -v
+origin	git@github.com:kaislakudjoi/git-practice.git (fetch)
+origin	git@github.com:kaislakudjoi/git-practice.git (push)
